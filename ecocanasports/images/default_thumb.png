@@ -1,0 +1,1651 @@
+<!DOCTYPE html><html dir="ltr" lang="en" class=" js video audio"><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<title>The page you requested cannot be found!</title>
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><![endif]-->
+
+ 
+
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                      
+
+
+
+<link rel="stylesheet" href="../css/bootstrap.min.css">
+<link rel="stylesheet" href="../css/font-awesome.min.css">
+<link rel="stylesheet" href="../css/lib.css">
+<link rel="stylesheet" href="../css/ie9-and-up.css">
+<link rel="stylesheet" href="../css/custom.css">
+<link rel="stylesheet" href="../css/shortcodes.css">
+<link rel="stylesheet" href="../css/swiper.min.css">
+<link rel="stylesheet" href="../css/opencart.css">
+<link rel="stylesheet" href="../css/style.css">
+<link rel="stylesheet" href="../css/style_render_33.css">
+<link rel="stylesheet" href="../css/style_2.css">
+<link rel="stylesheet" href="../css/style_render_35.css">
+<link rel="stylesheet" href="../css/style_1.css">
+<link rel="stylesheet" href="../css/so_megamenu.css">
+<link rel="stylesheet" href="../css/wide-grid.css">
+<link rel="stylesheet" href="../css/chosen.css">
+<link rel="stylesheet" href="../css/so_searchpro.css">
+<link rel="stylesheet" href="../css/owl.carousel.css">
+<link rel="stylesheet" href="../css/so_sociallogin.css">
+<link rel="stylesheet" href="../css/mycss.css">
+<link rel="stylesheet" href="../css/green.css">
+<link rel="stylesheet" href="../css/responsive.css">
+
+<script type="text/javascript" async src="../js/bundle.js"></script><script type="text/javascript" async src="../js/analytics.js"></script><script src="../js/jquery-2.1.1.min.js"></script>
+<script src="../js/bootstrap.min.js"></script>
+<script src="../js/libs.js"></script>
+<script src="../js/so.system.js"></script>
+<script src="../js/jquery.sticky-kit.min.js"></script>
+<script src="../js/lazysizes.min.js"></script>
+<script src="../js/jquery.nav.js"></script>
+<script src="../js/so.custom.js"></script>
+<script src="../js/custom.js"></script>
+<script src="../js/common.js"></script>
+<script src="../js/shortcodes.js"></script>
+<script src="../js/swiper.jquery.js"></script>
+<script src="../js/script.js"></script>
+<script src="../js/section.js"></script>
+<script src="../js/modernizr.video.js"></script>
+<script src="../js/swfobject.js"></script>
+<script src="../js/video_background.js"></script>
+<script src="../js/jquery.cookie.js"></script>
+<script src="../js/so_megamenu.js"></script>
+<script src="../js/chosen.jquery.js"></script>
+<script src="../js/owl.carousel.js"></script>
+
+
+
+ <link href="../css/css.css" rel="stylesheet" type="text/css"> 	<style type="text/css">
+		 body, #wrapper{font-family:'Rubik', sans-serif}
+			</style>
+
+
+    <style type="text/css">.navbar-logo  .logo a img {
+    max-width: 58%;
+}
+
+@media only screen and (max-width: 768px) {
+  .navbar-logo  .logo a img {
+    max-width: 100%;
+}
+}
+
+@media screen and (min-device-width: 437px) and (max-device-width: 732px) { 
+.common-home .row_t51b, .information-information .buy-page .row_t51b {
+    height: 90px !important;
+}
+
+.information-information .mob_rent_adj {
+    width: 100% !important; 
+    padding-bottom: inherit;
+}
+.information-information .col-md-4 {  
+     width: 33.33333333%; 
+}
+.infromation-information .overlay_image {     
+     height: 200px;     
+     margin-right: -15%;
+}
+.information-information .dis_flex {     
+     flex-wrap: nowrap;
+}
+}
+
+
+.container2 {
+  position: relative;
+  width: 100%;
+  max-width: 400px;
+}
+
+.container2 img {
+  width: auto;
+  height: auto;
+}
+
+.container2 .btn2 {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: transparent;
+  color: white;
+  font-size: 25px;
+  padding: 12px 24px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+}
+
+.container2 .btn2:hover {
+  background-color: transparent;
+}
+
+.blog-header h3{
+margin-top: 30px;
+}
+
+
+@media only screen and (max-width: 768px){
+.product-view .content-product-right .box-info-product .cart input {
+width: 135px !important;
+padding: 0px 0px !important;
+}
+.btn_navigate .btn {
+    width: 150px;
+    border-radius: 5px !important;
+}
+}
+
+@media only screen and (max-width: 360px){
+.btn_navigate .btn .font-s {
+margin-top: 25px;
+}
+}
+
+@media only screen and (max-width: 414px){
+.enlarge .btn {
+    margin-top: 30px;
+}
+.btn_navigate .btn {
+   width: 45% !important;
+   border-radius: 3px !important;
+}
+}
+
+.map-responsive{
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+}
+.map-responsive iframe{
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+}
+
+.wrapper-full .container  .breadcrumb {
+    padding-bottom: 12px;
+}
+
+.product-product .help-block { display: none; }
+
+
+
+/*====Code by Waziaq====*/
+#so-groups .sticky-mycart { display: none; }
+#so-groups .form-content .space .col-xs-12, #so-groups .form-content .space .col-sm-12 { display: none; }
+.box-info-product { padding-bottom: 10px;}
+.left_column { padding-top: 15px }
+
+/*====Hide Author and Date====*/
+.blog-listitem .blog-item .blog-item-inner .blog-meta { display: none; }
+.media-content .media-date-added, .media-author { display: none; }
+
+ </style>
+
+
+<link href="favicon.png" rel="icon">		<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="../js_1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-53033331-1');
+</script>
+
+
+
+              
+
+              
+<style type="text/css">div.eapps-widget{position:relative}div.eapps-widget.eapps-widget-show-toolbar:before{position:absolute;content:"";display:block;bottom:0;top:0;left:0;right:0;pointer-events:none;border:1px solid transparent;transition:border .3s ease;z-index:1}.eapps-widget-toolbar{position:absolute;top:-32px;left:0;right:0;display:block;z-index:99999;padding-bottom:4px;transition:all .3s ease;pointer-events:none;opacity:0}.eapps-widget:hover .eapps-widget-toolbar{opacity:1;pointer-events:auto}.eapps-widget-toolbar a{text-decoration:none;box-shadow:none!important}.eapps-widget-toolbar-panel{border-radius:6px;background-color:#222;color:#fff;display:-ms-inline-flexbox;display:inline-flex;-ms-flex-align:center;align-items:center;top:0;position:relative;transition:all .3s ease;opacity:0;overflow:hidden;-webkit-backface-visibility:hidden;backface-visibility:hidden;box-shadow:0 0 0 1px hsla(0,0%,100%,.2);height:28px}.eapps-widget:hover .eapps-widget-toolbar-panel{opacity:1}.eapps-widget-toolbar-panel-wrapper{width:100%;position:relative}.eapps-widget-toolbar-panel-only-you{position:absolute;top:-24px;font-size:11px;line-height:14px;color:#9c9c9c;padding:5px 4px}.eapps-widget-toolbar-panel-logo{width:28px;height:28px;border-right:1px solid hsla(0,0%,100%,.2);display:-ms-flexbox;display:flex;-ms-flex-align:center;align-items:center;-ms-flex-pack:center;justify-content:center}.eapps-widget-toolbar-panel-logo svg{display:block;width:15px;height:15px;fill:#f93262}.eapps-widget-toolbar-panel-edit{font-size:12px;font-weight:400;line-height:14px;display:-ms-inline-flexbox;display:inline-flex;-ms-flex-align:center;align-items:center;padding:9px;border-right:1px solid hsla(0,0%,100%,.2);color:#fff;text-decoration:none}.eapps-widget-toolbar-panel-edit-icon{width:14px;height:14px;margin-right:8px}.eapps-widget-toolbar-panel-edit-icon svg{display:block;width:100%;height:100%;fill:#fff}.eapps-widget-toolbar-panel-views{display:-ms-inline-flexbox;display:inline-flex;-ms-flex-pack:center;justify-content:center;-ms-flex-align:center;align-items:center}.eapps-widget-toolbar-panel-views-label{font-size:12px;font-weight:400;line-height:14px;margin-left:8px}.eapps-widget-toolbar-panel-views-bar{display:-ms-inline-flexbox;display:inline-flex;width:70px;height:3px;border-radius:2px;margin-left:8px;background-color:hsla(0,0%,100%,.3)}.eapps-widget-toolbar-panel-views-bar-inner{border-radius:2px;background-color:#4ad504}.eapps-widget-toolbar-panel-views-green .eapps-widget-toolbar-panel-views-bar-inner{background-color:#4ad504}.eapps-widget-toolbar-panel-views-red .eapps-widget-toolbar-panel-views-bar-inner{background-color:#ff4734}.eapps-widget-toolbar-panel-views-orange .eapps-widget-toolbar-panel-views-bar-inner{background-color:#ffb400}.eapps-widget-toolbar-panel-views-percent{display:-ms-inline-flexbox;display:inline-flex;margin-left:8px;margin-right:8px;font-size:12px;font-weight:400;line-height:14px}.eapps-widget-toolbar-panel-views-get-more{padding:9px 16px;background-color:#f93262;color:#fff;font-size:12px;font-weight:400;border-radius:0 6px 6px 0}.eapps-widget-toolbar-panel-share{position:absolute;top:0;display:inline-block;margin-left:8px;width:83px;height:28px;padding-bottom:4px;box-sizing:content-box!important}.eapps-widget-toolbar-panel-share:hover .eapps-widget-toolbar-panel-share-block{opacity:1;pointer-events:all}.eapps-widget-toolbar-panel-share-button{padding:0 18px;height:28px;background-color:#1c91ff;color:#fff;font-size:12px;font-weight:400;border-radius:6px;position:absolute;top:0;display:-ms-flexbox;display:flex;-ms-flex-direction:row;flex-direction:row;cursor:default;-ms-flex-align:center;align-items:center}.eapps-widget-toolbar-panel-share-button svg{display:inline-block;margin-right:6px;fill:#fff;position:relative;top:-1px}.eapps-widget-toolbar-panel-share-block{position:absolute;background:#fff;border:1px solid hsla(0,0%,7%,.1);border-radius:10px;width:209px;top:32px;transform:translateX(-63px);opacity:0;pointer-events:none;transition:all .3s ease;box-shadow:0 4px 6px rgba(0,0,0,.05)}.eapps-widget-toolbar-panel-share-block:hover{opacity:1;pointer-events:all}.eapps-widget-toolbar-panel-share-block-text{color:#111;font-size:15px;font-weight:400;padding:12px 0;text-align:center}.eapps-widget-toolbar-panel-share-block-text-icon{padding-bottom:4px}.eapps-widget-toolbar-panel-share-block-actions{display:-ms-flexbox;display:flex;-ms-flex-direction:row;flex-direction:row;border-top:1px solid hsla(0,0%,7%,.1)}.eapps-widget-toolbar-panel-share-block-actions-item{width:33.333333%;display:-ms-flexbox;display:flex;-ms-flex-pack:center;justify-content:center;-ms-flex-align:center;align-items:center;height:39px;transition:all .3s ease;background-color:transparent}.eapps-widget-toolbar-panel-share-block-actions-item:hover{background-color:#fafafa}.eapps-widget-toolbar-panel-share-block-actions-item a{width:100%;height:100%;display:-ms-flexbox;display:flex;-ms-flex-pack:center;justify-content:center;-ms-flex-align:center;align-items:center}.eapps-widget-toolbar-panel-share-block-actions-item-icon{width:16px;height:16px;display:block}.eapps-widget-toolbar-panel-share-block-actions-item-facebook .eapps-widget-toolbar-panel-share-block-actions-item-icon{fill:#3c5a9b}.eapps-widget-toolbar-panel-share-block-actions-item-twitter .eapps-widget-toolbar-panel-share-block-actions-item-icon{fill:#1ab2e8}.eapps-widget-toolbar-panel-share-block-actions-item-google .eapps-widget-toolbar-panel-share-block-actions-item-icon{fill:#dd4b39}.eapps-widget-toolbar-panel-share-block-actions-item:not(:last-child){border-right:1px solid hsla(0,0%,7%,.1)}</style><script src="../js/eapps.instalink.js" defer="defer"></script><style data-styled="active" data-styled-version="5.1.1"></style><style type="text/css" id="instaLink_styles">.instalink{display:block;position:relative;-webkit-box-sizing:border-box;box-sizing:border-box;overflow:hidden;min-height:200px;min-width:100px;width:100%;margin:0;padding:0;border-radius:3px;-webkit-transform:translateZ(0);transform:translateZ(0);background:#f8f8f8;font:400 11px/1.2 Arial,sans-serif;-webkit-font-smoothing:antialiased;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;direction:ltr !important;}.instalink a{border:0 !important;outline:0 !important;text-decoration:none}.instalink img,.instalink a img{margin:0;padding:0;border:0;outline:0}.instalink *{margin:0;padding:0}.instalink-cap{position:absolute;visibility:hidden;top:0;right:0;bottom:0;left:0;opacity:0;-webkit-transform:translateY(40px);transform:translateY(40px);-webkit-transition:all .2s ease;transition:all .2s ease;}.instalink-cap::before{display:block;position:absolute;width:256px;height:52px;top:50%;left:50%;margin:-26px 0 0 -123px;background:url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQAAAAAvCAYAAAAM/xQxAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyJpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0NTY2MSwgMjAxMi8wMi8wNi0xNDo1NjoyNyAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNiAoV2luZG93cykiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6ODJDNUI5QkQ5NEVGMTFFNTk4NzlFQkMzQUMzREMzREQiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6ODJDNUI5QkU5NEVGMTFFNTk4NzlFQkMzQUMzREMzREQiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDo4MkM1QjlCQjk0RUYxMUU1OTg3OUVCQzNBQzNEQzNERCIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDo4MkM1QjlCQzk0RUYxMUU1OTg3OUVCQzNBQzNEQzNERCIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/PkdcXnkAAA2hSURBVHja7F0LmFVV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") no-repeat;-webkit-backface-visibility:hidden;-webkit-animation:_il-cap-blinking 2s infinite;animation:_il-cap-blinking 2s infinite;content:'';}@media (-webkit-min-device-pixel-ratio:1.5),(min-device-pixel-ratio:1.5){.instalink-cap::before{background:url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAgAAAABdCAYAAADT9976AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyJpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0NTY2MSwgMjAxMi8wMi8wNi0xNDo1NjoyNyAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNiAoV2luZG93cykiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6OENFQ0U5ODg5NEZGMTFFNTk5QUZCMDE1NkZFNkQ3QkEiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6OENFQ0U5ODk5NEZGMTFFNTk5QUZCMDE1NkZFNkQ3QkEiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDo4Q0VDRTk4Njk0RkYxMUU1OTlBRkIwMTU2RkU2RDdCQSIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDo4Q0VDRTk4Nzk0RkYxMUU1OTlBRkIwMTU2RkU2RDdCQSIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/Phd4s8gAACAXSURBVHja7F0HvFTF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") no-repeat;background-size:256px 52px}}.instalink-loading .instalink-cap,.instalink-error .instalink-cap{visibility:visible;opacity:1;-webkit-transform:translateY(0);transform:translateY(0)}.instalink-error .instalink-cap::before{-webkit-animation:none;animation:none}.instalink-alert{position:absolute;visibility:hidden;width:100%;margin:20px 0;opacity:0;text-align:center;font-size:14px;color:#ff4253;-webkit-transition:all .2s ease;transition:all .2s ease}.instalink-error .instalink-alert{visibility:visible;opacity:1}.instalink-content{position:relative;visibility:hidden;height:100%;opacity:0;-webkit-transition:all .3s ease;transition:all .3s ease}.instalink-ready > .instalink-content{visibility:visible;opacity:1;-webkit-transition-delay:.1s;transition-delay:.1s}.instalink-header{display:block;position:relative;border-bottom:none !important;-webkit-box-shadow:inset 0 0 100px rgba(255,255,255,0),0 1px 0 0 rgba(0,0,0,0.05);box-shadow:inset 0 0 100px rgba(255,255,255,0),0 1px 0 0 rgba(0,0,0,0.05);background:#285989;text-decoration:none;-webkit-transition:all .3s ease;transition:all .3s ease;}.instalink-header::before,.instalink-header::after{display:table;clear:both;width:100%;height:0;content:''}a.instalink-header:hover{-webkit-box-shadow:inset 0 0 100px rgba(255,255,255,0.2),0 1px 0 0 rgba(0,0,0,0.05);box-shadow:inset 0 0 100px rgba(255,255,255,0.2),0 1px 0 0 rgba(0,0,0,0.05)}.instalink-header-pic{display:block;float:left;width:34px;height:34px;}.instalink-rtl .instalink-header-pic{float:right}.instalink-header-name{display:block;float:left;overflow:hidden;width:70%;margin-left:14px;white-space:nowrap;text-transform:uppercase;text-overflow:ellipsis;line-height:34px;font-weight:bold;font-size:14px;color:#fff;}.instalink-header-name a{color:#fff}.instalink-rtl .instalink-header-name{float:right;margin-left:0;margin-right:14px}.instalink-tiny .instalink-header-name{width:40%}.instalink-header-logo{display:block;position:absolute;top:7px;right:12px;width:20px;height:20px;}.instalink-header-logo svg{display:block;fill:#fff;width:20px;height:20px}.instalink-rtl .instalink-header-logo{right:auto;left:12px}.instalink-panel{padding:10px 0;-webkit-box-shadow:0 1px 0 0 rgba(0,0,0,0.05);box-shadow:0 1px 0 0 rgba(0,0,0,0.05);}.instalink-panel::before,.instalink-panel::after{display:table;clear:both;width:100%;height:0;content:''}.instalink-tiny .instalink-panel{text-align:center}.instalink-panel-counter{display:block;float:left;width:54px;text-align:center;}.instalink-rtl .instalink-panel-counter{float:right}.instalink-tiny .instalink-panel-counter{display:none}.instalink-medium .instalink-panel-counter{width:65px}.instalink-large .instalink-panel-counter{width:75px}.instalink-panel-counter-value{display:block;font-style:normal;font-weight:700;font-size:13px}.instalink-panel-counter-label{display:block;overflow:hidden;width:54px;margin-top:2px;text-overflow:ellipsis;white-space:nowrap;color:#727272;}.instalink-medium .instalink-panel-counter-label{width:65px}.instalink-large .instalink-panel-counter-label{width:75px}.instalink-small .instalink-panel-following{display:none}.instalink-panel-subscribe{display:inline-block;float:right;margin-right:11px;padding:8px 12px;border-radius:3px;-webkit-box-shadow:inset 0 0 100px rgba(255,255,255,0);box-shadow:inset 0 0 100px rgba(255,255,255,0);background:#285989;text-decoration:none;color:#fff;-webkit-transition:all .3s ease;transition:all .3s ease;}.instalink-rtl .instalink-panel-subscribe{float:left;margin-right:0;margin-left:11px}.instalink-tiny .instalink-panel-subscribe{float:none;margin-right:0}.instalink-panel-subscribe:hover{-webkit-box-shadow:inset 0 0 100px rgba(255,255,255,0.2);box-shadow:inset 0 0 100px rgba(255,255,255,0.2)}.instalink-scrollbar{position:absolute;visibility:hidden;top:0;right:0;bottom:0;opacity:0;-webkit-transition:all .3s ease;transition:all .3s ease;}.instalink-rtl .instalink-scrollbar{right:auto;left:0}.instalink-scrollbar.visible,.instalink:active .instalink-scrollbar,.instalink:hover .instalink-scrollbar{visibility:visible;opacity:1}.instalink-scrollbar-slider{width:2px;border-radius:10px;background:#858585;-webkit-transform-origin:50% 0;transform-origin:50% 0}.instalink-feed::before,.instalink-feed::after{display:table;clear:both;width:100%;height:0;content:''}.instalink-feed-loader{position:relative;visibility:hidden;opacity:0;-webkit-transition:all .3s ease;transition:all .3s ease;}.instalink-has-pages .instalink-feed-loader{visibility:visible;opacity:1;height:40px;margin:15px 0;}.instalink-has-pages .instalink-feed-loader::before{height:40px}.instalink-feed-loader::before{display:block;height:0;width:40px;margin:0 auto;border:1px solid #afafaf;border-radius:50% 50%;-webkit-animation:_instalink-feed-loader 1.5s infinite;animation:_instalink-feed-loader 1.5s infinite;content:''}.instalink-feed-inner{position:relative}.instalink-feed-empty{position:absolute;top:0;right:0;bottom:0;left:0;}.instalink-feed-empty-text{display:block;position:absolute;top:50%;left:50%;padding:5px;-webkit-transform:translate3d(-50%,-50%,0);transform:translate3d(-50%,-50%,0);text-align:center;line-height:1.6;color:#727272}.instalink-feed-container{position:absolute;overflow:hidden;top:0;right:-17px;bottom:0;left:0;-webkit-overflow-scrolling:touch;}.instalink-rtl .instalink-feed-container{right:0;left:-17px}.instalink-scroll .instalink-feed-container{overflow:auto;overflow-y:auto;overflow-x:hidden}.instalink-feed-wrapper{position:absolute;overflow:hidden;left:0;bottom:0;right:0;background:#f8f8f8;}.instalink-user .instalink-feed-wrapper{top:86px}.instalink-tag .instalink-feed-wrapper{top:35px}.instalink-hide-heading .instalink-feed-wrapper{top:0}.instalink-feed-post{display:block;position:relative;float:left;-webkit-transform:translate3d(0,0,0);transform:translate3d(0,0,0);}.instalink-rtl .instalink-feed-post{float:right}.instalink-feed-post::before{position:absolute;display:block;top:50%;left:50%;height:40px;width:40px;margin:-20px 0 0 -20px;border:1px solid #afafaf;border-radius:50% 50%;-webkit-animation:_instalink-feed-loader 1.5s infinite;animation:_instalink-feed-loader 1.5s infinite;content:'';}.instalink-feed-post-loaded.instalink-feed-post::before{display:none}.instalink-feed-post span{display:block;position:absolute;overflow:hidden;visibility:hidden;top:50%;left:50%;opacity:0;-webkit-transform:scale(.6);transform:scale(.6);-webkit-backface-visibility:hidden;backface-visibility:hidden;-webkit-transition:opacity .4s ease,-webkit-transform .4s ease;transition:opacity .4s ease,-webkit-transform .4s ease;transition:opacity .4s ease,transform .4s ease;transition:opacity .4s ease,transform .4s ease,-webkit-transform .4s ease}.instalink-feed-post-video span::after{display:block;position:absolute;width:0;height:0;border-style:solid;border-color:transparent transparent transparent rgba(255,255,255,0.7);content:'';}.instalink-image-size-xlarge .instalink-feed-post-video span::after{top:2%;right:2%;border-width:15px 0 15px 26px}.instalink-image-size-large .instalink-feed-post-video span::after{top:5%;right:5%;border-width:12.5px 0 12.5px 21.7px}.instalink-image-size-medium .instalink-feed-post-video span::after{top:6%;right:6%;border-width:10px 0 10px 17.3px}.instalink-image-size-small .instalink-feed-post-video span::after{top:7%;right:7%;border-width:7.5px 0 7.5px 13px}.instalink-feed-post img{display:block;position:relative;max-width:none !important;max-height:none !important;}.instalink-feed-post-portrait.instalink-feed-post img{top:50%;width:100% !important;-webkit-transform:translateY(-50%) translateZ(0);transform:translateY(-50%) translateZ(0)}.instalink-feed-post-landscape.instalink-feed-post img{left:50%;height:100% !important;-webkit-transform:translateX(-50%) translateZ(0);transform:translateX(-50%) translateZ(0)}.instalink-feed-post-square.instalink-feed-post img{width:100% !important;height:100% !important}.instalink-feed-post:hover span img{opacity:.85}.instalink-feed-post-loaded span{visibility:visible;opacity:1;-webkit-transform:scale(1);transform:scale(1)}.instalink-loading .instalink-feed{display:none}@-webkit-keyframes _il-cap-blinking{0%{opacity:1}50%{opacity:.3}100%{opacity:1}}@keyframes _il-cap-blinking{0%{opacity:1}50%{opacity:.3}100%{opacity:1}}@-webkit-keyframes _instalink-feed-loader{0%{-webkit-transform:scale(0,0);transform:scale(0,0);opacity:1}60%{-webkit-transform:scale(.9,.9);transform:scale(.9,.9);opacity:1}99%{-webkit-transform:scale(1.2,1.2);transform:scale(1.2,1.2);opacity:0}100%{-webkit-transform:scale(0,0);transform:scale(0,0);opacity:1}}@keyframes _instalink-feed-loader{0%{-webkit-transform:scale(0,0);transform:scale(0,0);opacity:1}60%{-webkit-transform:scale(.9,.9);transform:scale(.9,.9);opacity:1}99%{-webkit-transform:scale(1.2,1.2);transform:scale(1.2,1.2);opacity:0}100%{-webkit-transform:scale(0,0);transform:scale(0,0);opacity:1}}</style></head>
+
+		
+
+			
+		
+<body class="error-not_found ltr layout-2 so-demos-ready loaded">
+<div id="wrapper" class="wrapper-full banners-effect-7">
+
+	
+
+		 
+
+
+<div class="so-pre-loader no-pre-loader" style="display: none;"><div class="so-loader-line" id="line-load" style="width: 99%; height: 4px;"></div></div>
+
+	
+<header id="header" class=" variant typeheader-2">
+		<div class="header-top hidden-compact">
+		<div class="container">
+			<div class="row">
+				<div class="header-top-left hidden-xs hidden-sm col-lg-6 col-md-4 col-sm-12 col-xs-12">
+										<ul class="top-link list-inline">
+						<li class="account" id="my_account"><a href="https://ecocanasports.com/index.php?route=account/account" title="My Account " class="btn-xs dropdown-toggle" data-toggle="dropdown"> <span class="hidden-xs">My Account </span> </a>
+
+						</li>
+						<li class="compare hidden-xs"><a href="https://ecocanasports.com/index.php?route=product/compare" class="top-link-compare" title="Compare ">Compare</a></li>
+
+													<li class="checkout hidden-xs"><a href="https://ecocanasports.com/index.php?route=checkout/checkout " class="btn-link" title="Checkout "><span>Checkout </span></a></li>
+											</ul>
+
+				</div>
+				<div class="header-top-right collapsed-block col-lg-6 col-md-8 col-sm-12 col-xs-12">
+
+					<ul class="top-link list-inline lang-curr">
+																																			            	<li class="login"><span class="hidden-xs"> <i class="fa fa-user-o" aria-hidden="true"></i>Hello.</span><a href="https://ecocanasports.com/index.php?route=account/login">Login</a></li>
+				            <li class="register"><a href="https://ecocanasports.com/index.php?route=account/register">Register</a></li>
+
+			            					</ul>
+
+
+
+				</div>
+			</div>
+		</div>
+	</div>
+
+		<div class="header-middle ">
+		<div class="container">
+			<div class="row">
+				<div class="hh navbar-logo col-lg-3 col-md-2 col-sm-4 col-xs-5">
+					<div class="logo">
+				   								   <a href="https://ecocanasports.com/index.php?route=common/home"><img class="lazyautosizes lazyloaded" data-sizes="auto" src="web-logo.png" data-src="https://ecocanasports.com/image/catalog/web-logo.png" title="Ecocana Sports - Bicycle Rental &amp; Sale In Malaysia" alt="Ecocana Sports - Bicycle Rental &amp; Sale In Malaysia" sizes="220px"></a>
+			    
+        
+				   	</div>
+				</div>
+
+				<div class="main-menu col-lg-6 col-md-7 col-sm-4">
+
+				</div>
+
+				<div class="main-menu">
+					  <div class="responsive megamenu-style-dev">
+	
+		<nav class="navbar-default">
+		<div class=" container-megamenu   horizontal ">
+					<div class="navbar-header">
+				<button type="button" id="show-megamenu" data-toggle="collapse" class="navbar-toggle">
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+				</button>
+			</div>
+		
+					<div class="megamenu-wrapper">
+		
+					<span id="remove-megamenu" class="fa fa-times"></span>
+		
+			<div class="megamenu-pattern">
+				<div class="container">
+					<ul class="megamenu" data-transition="slide" data-animationtime="500">
+						
+																																																
+																						
+							
+							
+																						
+							
+							
+																																															
+							
+							
+							
+															<li class="style-page rent-page with-sub-menu hover">
+									<p class="close-menu"></p>
+																			<a href="rent" class="clearfix">
+											<strong>
+												Rent
+											</strong>
+											
+											<b class="caret"></b>
+										</a>
+									
+																			<div class="sub-menu" style="width: 360px">
+											<div class="content">
+												<div class="row">
+																																																																																			<div class="col-sm-12">
+																																																<ul class="subcategory rent-page rent-page-link">
+																																					<li>
+																																									<a href="https://ecocanasports.com/book-your-bicycle-online" class="title-submenu rent-page rent-page-link">Rent Product</a>
+																																																													<div class="row"><div class="col-sm-12 hover-menu"><div class="menu"><ul><li><a href="https://ecocanasports.com/book-your-bicycle-online/mountain-bike" onclick="window.location = 'https://ecocanasports.com/book-your-bicycle-online/mountain-bike';" class="main-menu">Mountain Bike</a></li><li><a href="https://ecocanasports.com/book-your-bicycle-online/road-bike" onclick="window.location = 'https://ecocanasports.com/book-your-bicycle-online/road-bike';" class="main-menu">Road Bike</a></li><li><a href="https://ecocanasports.com/book-your-bicycle-online/city-bike" onclick="window.location = 'https://ecocanasports.com/book-your-bicycle-online/city-bike';" class="main-menu">City Bike</a></li><li><a href="https://ecocanasports.com/book-your-bicycle-online/electronic-bike" onclick="window.location = 'https://ecocanasports.com/book-your-bicycle-online/electronic-bike';" class="main-menu">Electronic Bike/Scooter</a></li><li><a href="https://ecocanasports.com/book-your-bicycle-online/other" onclick="window.location = 'https://ecocanasports.com/book-your-bicycle-online/other';" class="main-menu">Others</a></li></ul></div></div></div>
+																																																											</li>
+																																			</ul>
+																																													</div>
+																									</div>
+											</div>
+										</div>
+																	</li>
+																																																							
+																						
+							
+							
+																						
+							
+							
+																																															
+							
+							
+							
+															<li class="Sell-item buy-page with-sub-menu hover">
+									<p class="close-menu"></p>
+																			<a href="buy" class="clearfix">
+											<strong>
+												Buy
+											</strong>
+											
+											<b class="caret"></b>
+										</a>
+									
+																			<div class="sub-menu" style="width: 360px">
+											<div class="content">
+												<div class="row">
+																																																																																			<div class="col-sm-12">
+																																																<ul class="subcategory Sell_style">
+																																					<li>
+																																									<a href="https://ecocanasports.com/Buy-Product" class="title-submenu Sell_style">Buy Product</a>
+																																																													<div class="row"><div class="col-sm-12 hover-menu"><div class="menu"><ul><li><a href="https://ecocanasports.com/Buy-Product/mountain-bikes" onclick="window.location = 'https://ecocanasports.com/Buy-Product/mountain-bikes';" class="main-menu">Mountain Bike</a></li><li><a href="https://ecocanasports.com/Buy-Product/road-bikes" onclick="window.location = 'https://ecocanasports.com/Buy-Product/road-bikes';" class="main-menu">Road Bike</a></li><li><a href="https://ecocanasports.com/Buy-Product/city-bikes" onclick="window.location = 'https://ecocanasports.com/Buy-Product/city-bikes';" class="main-menu">City Bike</a></li><li><a href="https://ecocanasports.com/Buy-Product/electric-bikes" onclick="window.location = 'https://ecocanasports.com/Buy-Product/electric-bikes';" class="main-menu">Electric Bike/Scooter</a></li><li><a href="https://ecocanasports.com/Buy-Product/others" onclick="window.location = 'https://ecocanasports.com/Buy-Product/others';" class="main-menu">Others</a></li></ul></div></div></div>
+																																																											</li>
+																																			</ul>
+																																													</div>
+																									</div>
+											</div>
+										</div>
+																	</li>
+																																																							
+																						
+							
+							
+																						
+							
+																						
+							
+							
+							
+							
+															<li class="Event-style1 event-page">
+									<p class="close-menu"></p>
+																			<a href="event" class="clearfix">
+											<strong>
+												Event
+											</strong>
+											<span class="labelNew"></span>
+										</a>
+									
+																	</li>
+																																																							
+																						
+							
+							
+																						
+							
+																						
+							
+							
+							
+							
+															<li class="blog-page">
+									<p class="close-menu"></p>
+																			<a href="blog" class="clearfix">
+											<strong>
+												Blog
+											</strong>
+											<span class="labelNew"></span>
+										</a>
+									
+																	</li>
+																																																							
+																						
+							
+							
+																						
+							
+																						
+							
+							
+							
+							
+															<li class="about-us about-us-page">
+									<p class="close-menu"></p>
+																			<a href="about_us" class="clearfix">
+											<strong>
+												About Us
+											</strong>
+											<span class="labelNew"></span>
+										</a>
+									
+																	</li>
+																																																							
+																						
+							
+							
+																						
+							
+																						
+							
+							
+							
+							
+															<li class="contact-us contact-us-page">
+									<p class="close-menu"></p>
+																			<a href="contact" class="clearfix">
+											<strong>
+												Contact us
+											</strong>
+											<span class="labelNew"></span>
+										</a>
+									
+																	</li>
+																																																							
+																						
+							
+							
+							
+							
+							
+							
+							
+							
+							
+															<li class>
+									<p class="close-menu"></p>
+																			<a href="bicycle-rental-for-students" class="clearfix">
+											<strong>
+												Student Rental
+											</strong>
+											
+										</a>
+									
+																	</li>
+																																																							
+																						
+							
+							
+							
+							
+							
+							
+							
+							
+							
+															<li class>
+									<p class="close-menu"></p>
+																			<a href="corporate-group-rental-bicycle-scooter" class="clearfix">
+											<strong>
+												Corporate Rental
+											</strong>
+											
+										</a>
+									
+																	</li>
+																			<li class="search-mobile" style="margin-top: 10px;">
+							<div class="col">
+								<div class="form-box">
+									<input type="text" name="search" value placeholder="Search" id="input-search" class="field">
+									<i class="fa fa-search sbmsearch"></i>
+								</div>
+							</div>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+		</div>
+	</nav>
+	</div>
+
+<script>
+$(document).ready(function(){
+	$('a[href="https://ecocanasports.com/catalog/view/javascript/so_page_builder/images/prettyPhoto/default/default_thumb.png"]').each(function() {
+		$(this).parents('.with-sub-menu').addClass('sub-active');
+	});
+});
+</script>
+
+
+				</div>
+				<div class="shopping_cart">
+				 	<div id="cart" class="btn-shopping-cart">
+
+  <a data-loading-text="Loading... " class="btn-group top_cart dropdown-toggle" data-toggle="dropdown">
+    <div class="shopcart">
+      <span class="icon-c">
+        <i class="fa fa-shopping-bag"></i>
+      </span>
+      <div class="shopcart-inner">
+        <p class="text-shopping-cart">
+
+         My cart
+        </p>
+
+        <span class="total-shopping-cart cart-total-full">
+           <span class="items_cart">0</span><span class="items_cart2"> item(s)</span><span class="items_carts"> RM0.00 </span> 
+        </span>
+      </div>
+    </div>
+  </a>
+
+  <ul class="dropdown-menu pull-right shoppingcart-box">
+        <li>
+      <p class="text-center empty">Your shopping cart is empty!</p>
+    </li>
+      </ul>
+</div>
+
+				</div>
+								<div class="search hidden-xs">
+					<a id="test-search" data-target="popup" data-popup="#popup-mysearch">
+						<span class="icon-c">
+							<i class="fa fa-lg fa-search"></i>
+						</span>
+					</a>
+				</div>
+								<div class="account">
+					<a href="https://ecocanasports.com/index.php?route=account/account" id="my_account" class="top-link-wishlist" title="My Account ">
+						<span class="icon-c">
+							<i class="fa fa-lg fa-user-circle"></i>
+						</span>
+					</a>
+				</div>
+								<div class="currency_view hidden-xs">
+					
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="header-bottom hidden-compact">
+		<div class="container">
+			<div class="row">
+				<div class="bottom1 menu-vertical col-lg-3 col-md-3 col-sm-3">
+					
+				</div>
+				<div class="bottom2 col-lg-7 col-md-6 col-sm-6">
+					<div class="search-header-w">
+												  
+<div id="sosearchpro" class="sosearchpro-wrapper so-search ">
+	 
+	
+	<form method="GET" action="index.php">
+		<div id="search0" class="search input-group form-group">
+			  
+			<input class="autosearch-input form-control" type="text" value size="50" autocomplete="off" placeholder="Search by Title, Brand, Category ..." name="search"><ul class="dropdown-menu"></ul>
+			<span class="input-group-btn">
+				<button type="submit" class="button-search btn btn-default btn-lg" name="submit_search">Search</button>
+			</span>
+		</div>
+
+		
+		<input type="hidden" name="route" value="product/search">
+	</form>
+</div>
+<script type="text/javascript">
+	jQuery(document).ready(function($) {
+		$(".chosen-select").chosen({
+			width: '100%'
+		});
+	})
+</script>
+<script type="text/javascript">
+// Autocomplete */
+(function($) {
+	$.fn.Soautocomplete = function(option) {
+		return this.each(function() {
+			this.timer = null;
+			this.items = new Array();
+
+			$.extend(this, option);
+
+			$(this).attr('autocomplete', 'off');
+
+			// Focus
+			$(this).on('focus', function() {
+				this.request();
+			});
+
+			// Blur
+			$(this).on('blur', function() {
+				setTimeout(function(object) {
+					object.hide();
+				}, 200, this);
+			});
+
+			// Keydown
+			$(this).on('keydown', function(event) {
+				switch(event.keyCode) {
+					case 27: // escape
+						this.hide();
+						break;
+					default:
+						this.request();
+						break;
+				}
+			});
+
+			// Click
+			this.click = function(event) {
+				event.preventDefault();
+
+				value = $(event.target).parent().attr('data-value');
+
+				if (value && this.items[value]) {
+					this.select(this.items[value]);
+				}
+			}
+
+			// Show
+			this.show = function() {
+				var pos = $(this).position();
+
+				$(this).siblings('ul.dropdown-menu').css({
+					top: pos.top + $(this).outerHeight(),
+					left: pos.left
+				});
+
+				$(this).siblings('ul.dropdown-menu').show();
+			}
+
+			// Hide
+			this.hide = function() {
+				$(this).siblings('ul.dropdown-menu').hide();
+			}
+
+			// Request
+			this.request = function() {
+				clearTimeout(this.timer);
+
+				this.timer = setTimeout(function(object) {
+					object.source($(object).val(), $.proxy(object.response, object));
+				}, 200, this);
+			}
+
+			// Response
+			this.response = function(json) {
+				html = '';
+
+				if (json.length) {
+					for (i = 0; i < json.length; i++) {
+						this.items[json[i]['value']] = json[i];
+					}
+
+					for (i = 0; i < json.length; i++) {
+						if (!json[i]['category']) {
+						html += '<li class="media" data-value="' + json[i]['value'] + '" title="' + json[i]['label'] + '">';
+						if(json[i]['image'] && json[i]['show_image'] && json[i]['show_image'] == 1 ) {
+							html += '	<a class="media-left" href="' + json[i]['link'] + '"><img class="pull-left" src="' + json[i]['image'] + '"></a>';
+						}
+
+						html += '<div class="media-body">';
+						html += '<a href="' + json[i]['link'] + '" title="' + json[i]['label'] + '"><span>' +json[i]['cate_name'] + json[i]['label'] + '</span></a>';
+						if(json[i]['price'] && json[i]['show_price'] && json[i]['show_price'] == 1){
+							html += '	<div class="box-price">';
+							if (!json[i]['special']) {
+								html += '<span class="price"><span>Price : </span>'+json[i]['price']+'</span>';;
+							} else {
+								html += '</span><span class="price-new">' + json[i]['special'] + '</span>'+'<span class="price-old" style="text-decoration:line-through;">' + json[i]['price']  ;
+							}
+							
+							html += '	</div>';
+						}
+						html += '</div></li>';
+						html += '<li class="clearfix"></li>';
+						}
+					}
+
+					// Get all the ones with a categories
+					var category = new Array();
+
+					for (i = 0; i < json.length; i++) {
+						if (json[i]['category']) {
+							if (!category[json[i]['category']]) {
+								category[json[i]['category']] = new Array();
+								category[json[i]['category']]['name'] = json[i]['category'];
+								category[json[i]['category']]['item'] = new Array();
+							}
+
+							category[json[i]['category']]['item'].push(json[i]);
+						}
+					}
+
+					for (i in category) {
+						html += '<li class="dropdown-header">' + category[i]['name'] + '</li>';
+
+						for (j = 0; j < category[i]['item'].length; j++) {
+							html += '<li data-value="' + category[i]['item'][j]['value'] + '"><a href="#">&nbsp;&nbsp;&nbsp;' + category[i]['item'][j]['label'] + '</a></li>';
+						}
+					}
+				}
+
+				if (html) {
+					this.show();
+				} else {
+					this.hide();
+				}
+
+				$(this).siblings('ul.dropdown-menu').html(html);
+			}
+
+			$(this).after('<ul class="dropdown-menu"></ul>');
+
+		});
+	}
+})(window.jQuery);
+
+$(document).ready(function() {
+	var selector = '#search0';
+	var total = 0;
+	var showimage = 1;
+	var showprice = 1;
+	var character = 3 ;
+	var height = 70;
+	var width = 70;
+
+	$(selector).find('input[name=\'search\']').Soautocomplete({
+		delay: 500,
+		source: function(request, response) {
+			var category_id = $(".select_category select[name=\"category_id\"]").first().val();
+			if(typeof(category_id) == 'undefined')
+				category_id = 0;
+				var limit = 5;
+			if(request.length >= character){
+				$.ajax({
+					url: 'index.php?route=extension/module/so_searchpro/autocomplete&filter_category_id='+category_id+'&limit='+limit+'&width='+width+'&height='+height+'&filter_name='+encodeURIComponent(request),
+					dataType: 'json',
+					success: function(json) {
+						response($.map(json, function(item) {
+							total = 0;
+							if(item.total){
+								total = item.total;
+							}
+
+							return {
+								price:   item.price,
+								special: item.special,
+								tax		:     item.tax,
+								label:   item.name,
+								cate_name:   (item.category_name) ? item.category_name + ' > ' : '',
+								image:   item.image,
+								link:    item.link,
+								minimum:    item.minimum,
+								show_price:  showprice,
+								show_image:  showimage,
+								value:   item.product_id,
+							}
+						}));
+					}
+				});
+			}
+		},
+	});
+});
+
+</script>
+
+					</div>
+				</div>
+				
+			</div>
+		</div>
+	</div>
+
+</header>
+
+<div id="socialLogin"></div>
+
+  <div class="modal fade in" id="so_sociallogin" tabindex="-1" role="dialog" aria-hidden="true">
+ <div class="modal-dialog block-popup-login">
+ <a href="javascript:void(0)" title="Close" class="close close-login fa fa-times-circle" data-dismiss="modal"></a>
+ <div class="tt_popup_login"><strong>Sign in Or Register</strong></div>
+ <div class="block-content">
+ <div class=" col-reg registered-account">
+ <div class="block-content">
+ <form class="form form-login" action="https://ecocanasports.com/index.php?route=account/login" method="post" id="login-form">
+ <fieldset class="fieldset login" data-hasrequired="* Required Fields">
+ <div class="field email required email-input">
+ <div class="control">
+ <input name="email" value autocomplete="off" id="email" type="email" class="input-text" title="Email" placeholder="E-mail Address">
+ </div>
+ </div>
+ <div class="field password required pass-input">
+ <div class="control">
+ <input name="password" type="password" autocomplete="off" class="input-text" id="pass" title="Password" placeholder="Password">
+ </div>
+ </div>
+  <div class=" form-group">
+ <label class="control-label">Login with your social account</label>
+ <div>
+   <a href="https://accounts.google.com/o/oauth2/auth?response_type=code&amp;redirect_uri=https%3A%2F%2Fecocanasports.com%2Findex.php%3Froute%3Dextension%2Fmodule%2Fso_sociallogin%2FGoogleLogin&amp;client_id=585366032089-0pfh350mvctp9itg3jfbc8suedlklou2.apps.googleusercontent.com&amp;scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email&amp;access_type=offline&amp;approval_prompt=force" class="btn btn-social-icon btn-sm btn-google-plus"><i class="fa fa-google fa-fw" aria-hidden="true"></i></a>
+     <a href="https://www.facebook.com/v2.4/dialog/oauth?client_id=662182797200267&amp;state=571ddf7efc19818bfe69f43bd121b155&amp;response_type=code&amp;sdk=php-sdk-5.7.0&amp;redirect_uri=https%3A%2F%2Fecocanasports.com%2Findex.php%3Froute%3Dextension%2Fmodule%2Fso_sociallogin%2FFacebookLogin&amp;scope=public_profile%2Cemail" class="btn btn-social-icon btn-sm btn-facebook"><i class="fa fa-facebook fa-fw" aria-hidden="true"></i></a>
+     </div>
+ </div>
+  <div class="secondary ft-link-p"><a class="action remind" href="https://ecocanasports.com/index.php?route=account/forgotten"><span>Forgot Your Password?</span></a></div>
+ <div class="actions-toolbar">
+ <div class="primary"><button type="submit" class="action login primary" name="send" id="send2"><span>Login</span></button></div>
+ </div>
+ </fieldset>
+ </form>
+ </div>
+ </div> 
+ <div class="col-reg login-customer">
+ <h2>NEW HERE?</h2>
+                            <p class="note-reg">Registration is free and easy!</p>
+                            <ul class="list-log">
+                                <li>Faster checkout</li>
+                                <li>Enjoy member privileges</li>
+                                <li>Keep track order status and more</li>
+                                <!--<li>Save multiple shipping addresses</li>
+                                <li>View and track orders and more</li>-->
+                            </ul>
+ <a class="btn-reg-popup" title="Register" href="https://ecocanasports.com/index.php?route=account/register">Create an account</a>
+ </div>
+ <div style="clear:both;"></div>
+ </div>
+ </div>
+ </div>
+ <script type="text/javascript">
+ jQuery(document).ready(function($) {
+ var $window = $(window);
+ function checkWidth() {
+ var windowsize = $window.width();
+ if (windowsize > 767) {
+ $('a[href*="account/login"]').click(function (e) {
+ e.preventDefault();
+ $("#so_sociallogin").modal('show');
+ });
+ }
+ }
+ checkWidth();
+ $(window).resize(checkWidth);
+ });
+ </script>
+  
+
+<div class="breadcrumbs">
+    <div class="container">
+        <ul class="breadcrumb">
+                            <li><a href="https://ecocanasports.com/index.php?route=common/home"><i class="fa fa-home"></i></a></li>
+                            <li><a href="https://ecocanasports.com/index.php?route=error/not_found">The page you requested cannot be found!</a></li>
+                    </ul>
+    </div>
+</div>
+<div class="container">
+  <div class="row">
+            
+    <div id="content" class="bg-page-404 col-sm-12 ">
+        <div class="so-page-builder">
+						<div class="container page-builder-ltr">
+				<div class="row row_t51b  row-style ">
+																<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 col_f9vm  col-style">
+																								<div class="module  ">
+   
+  
+  <div class="tagline_row">
+   <div class="tagline_style">
+      <h3>Sustainable mobility on wheels anytime • anywhere</h3>
+   </div>
+</div>								 
+</div>
+																						
+													</div>			
+							
+				</div>
+			</div>
+
+									<div class="container-fluid page-builder-ltr">
+				<div class="row row_dghw  row-style ">
+																<div class="col-lg-4 col-md-12 col-sm-12 col-xs-12 col_qg3i  col-style">
+																								<div class="module MY_ ">
+   
+  
+  																																																																																																																									<div class="customrow padrev">
+   <div class="backimg-a">
+    <div class="black_overlay">
+    <div class="text_box">
+     <div class="enlarge text_style">
+       <a class="btn" href="./rent">Rent</a>
+     </div>
+     <div class="subtext">
+       <h3>Ride with a peace of mind</h3>
+     </div>
+     </div>
+    </div>
+</div>									 
+											 
+											 
+											 
+											 
+											</div> 
+											 
+											 
+											 
+											 
+											 
+											 
+											 
+											 
+											 
+</div>
+																						
+													</div>			
+											<div class="col-lg-4 col-md-12 col-sm-12 col-xs-12 col_jx52  col-style">
+																								<div class="module MY_ ">
+   
+  
+  																																																																																																			<div class="customrow padrev">
+   <div class="backimg2">
+    <div class="black_overlay">
+    <div class="text_box">
+     <div class="enlarge text_style">
+       <a class="btn" href="./buy">Buy</a>
+     </div>
+     <div class="subtext">
+       <h3>Easy commuting just a click away</h3>
+     </div>
+     </div>
+     </div>
+   </div>
+</div>								 
+											 
+											 
+											 
+											 
+											 
+											 
+											 
+											 
+											 
+</div>
+																						
+													</div>			
+											<div class="col-lg-4 col-md-12 col-sm-12 col-xs-12 col_iool  col-style">
+																								<div class="module MY_ ">
+   
+  
+  																																																																																								<div class="customrow padrev">
+   <div class="backimg3">
+      <div class="black_overlay">
+    <div class="text_box">
+     <div class="enlarge text_style">
+       <a class="btn" href="./event">Event</a>
+     </div>
+     <div class="subtext">
+       <h3>Why ride alone?</h3>
+     </div>
+     </div>
+    </div>
+   </div>
+</div>					 
+											 
+											 
+											 
+											 
+											 
+											 
+											 
+											 
+</div>
+																						
+													</div>			
+							
+				</div>
+			</div>
+
+									<div class="container page-builder-ltr">
+				<div class="row row_i4fp  content-main-w ">
+																<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 col_77ba  col-style">
+																								<div class="module  ">
+   
+  
+  											<div class="title_custom top_pad">
+      <h1>Why us</h1>
+</div> 
+											 
+</div>
+																						
+													</div>			
+							
+				</div>
+			</div>
+
+									<section id="h1-section-style1" class="h1-section-style1 ">
+										<div class="container page-builder-ltr">
+				<div class="row row_q3yj  row-style ">
+																<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 col_9uut  col-style">
+																								<div class="module  ">
+   
+  
+  																																	<div class="col_white">
+        <div class="image_box">
+            <img src="reliable.png" alt="image">
+            <h3>Reliable</h3>
+            <p>You’d get good quality wheelie from us</p>
+        </div>
+</div>							 
+											 
+											 
+											 
+</div>
+																						
+													</div>			
+											<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 col_cozf  col-style">
+																								<div class="module  ">
+   
+  
+  																																	<div class="col_white">
+        <div class="image_box">
+            <img src="convenient.png" alt="iamge">
+            <h3>Convenient</h3>
+            <p>We deliver you the wheelie at your preferred time and place</p>
+        </div>
+    </div>			 
+											 
+											 
+											 
+											 
+</div>
+																						
+													</div>			
+											<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 col_n1ai  col-style">
+																								<div class="module  ">
+   
+  
+  																						<div class="col_white">
+        <div class="image_box">
+            <img src="budget_friendly.png" alt="image">
+            <h3>Budget-Friendly</h3>
+            <p>Just grab wheelie at your budget</p>
+        </div>
+    </div>							 
+											 
+											 
+</div>
+																						
+													</div>			
+							
+				</div>
+			</div>
+
+									</section>
+								<div class="container page-builder-ltr">
+				<div class="row row_29gq  row-style ">
+																<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 col_aaas  col-style">
+																								<div class="module  ">
+   
+  
+  																																																							<div class="enlarge btn_navigate">
+       <a class="btn" href="./about_us">About us</a>
+</div>			 
+											 
+											 
+											 
+											 
+											 
+</div>
+																						
+													</div>			
+							
+				</div>
+			</div>
+
+									<div class="container page-builder-ltr">
+				<div class="row row_jsqz  row-ht sdw ">
+																<div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 col_zrwi  col-pad">
+																								<div class="route-wrapper">																													<div class="title_custom custom_spacing">
+      <h1><a href="./rent-bicycle-anytime-anywhere">Suggested Routes</a></h1>
+</div> 
+<div class="text">
+       <p><a href="./rent-bicycle-anytime-anywhere">Do you know that there are many nice cycling routes in Malaysia? You can visit mapmyride website to check out cycling tracks in Kuala Lumpur by the public. Or visit our website frequently to get to know more information about the cycling track in Malaysia. May you CLICK HERE for more references.</a></p>
+     </div>
+</div>					
+																						
+													</div>			
+											<div class="col-lg-6 col-md-12 col-sm-12 col-xs-12 col_d57f  col-pad">
+																								<div class="swiper-viewport">
+  <div id="slideshow0" class="swiper-container swiper-container-horizontal">
+    <div class="swiper-wrapper" style="transition-duration: 300ms;"><div class="swiper-slide text-center swiper-slide-duplicate swiper-slide-duplicate-next" data-swiper-slide-index="2"><a href="./blog/Putrajaya-Challenge-Park-PCP-Mountain-Bike"><img src="putrajaya-challenge-park-dirt-biking-ecocanasports-klbicyclerental-800x600.jpg" alt="Cycling at PCP" class="img-responsive"></a></div>       <div class="swiper-slide text-center swiper-slide-prev" data-swiper-slide-index="0"><a href="./blog/Route-Gombak-to-Genting-Sempah"><img src="route1-800x600.jpg" alt="Cycling at Genting Sempah" class="img-responsive"></a></div>
+            <div class="swiper-slide text-center swiper-slide-active" data-swiper-slide-index="1"><a href="./blog/Route-Hulu-Langat-to-Genting-Peras"><img src="route2-800x600.jpg" alt="Cycling at Genting Peras" class="img-responsive"></a></div>
+            <div class="swiper-slide text-center swiper-slide-next" data-swiper-slide-index="2"><a href="./blog/Putrajaya-Challenge-Park-PCP-Mountain-Bike"><img src="putrajaya-challenge-park-dirt-biking-ecocanasports-klbicyclerental-800x600.jpg" alt="Cycling at PCP" class="img-responsive"></a></div>
+       <div class="swiper-slide text-center swiper-slide-duplicate swiper-slide-duplicate-prev" data-swiper-slide-index="0"><a href="./blog/Route-Gombak-to-Genting-Sempah"><img src="route1-800x600.jpg" alt="Cycling at Genting Sempah" class="img-responsive"></a></div></div>
+  </div>
+  <div class="swiper-pagination slideshow0 swiper-pagination-clickable swiper-pagination-bullets"><span class="swiper-pagination-bullet"></span><span class="swiper-pagination-bullet swiper-pagination-bullet-active"></span><span class="swiper-pagination-bullet"></span></div>
+  <div class="swiper-pager">
+    <div class="swiper-button-next"></div>
+    <div class="swiper-button-prev"></div>
+  </div>
+</div>
+<script type="text/javascript"><!--
+$('#slideshow0').swiper({
+	mode: 'horizontal',
+	slidesPerView: 1,
+	pagination: '.slideshow0',
+	paginationClickable: true,
+	nextButton: '.swiper-button-next',
+    prevButton: '.swiper-button-prev',
+    spaceBetween: 30,
+	autoplay: 2500,
+    autoplayDisableOnInteraction: true,
+	loop: true
+});
+--></script>
+																						
+													</div>			
+							
+				</div>
+			</div>
+
+									<div class="container page-builder-ltr">
+				<div class="row row_infr  row-style ">
+																<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 col_5vz7  col-style">
+																								<div class="module  ">
+   
+  
+  																																																																																																																																																										<div class="banner_row">
+    <div class="bk_img">
+        
+        <div class="banner_img mx-auto">
+            <img src="nature.png" alt>
+        </div>
+        <div class="content_wrapper">
+            <div class="banner_content">
+                <h2>Our expert will advise you</h2>
+                <div class="enlarge btn_navigate btn_banner">
+                    <a class="btn" href="./contact">Contact us</a>
+                 </div>
+            </div>
+            </div>  
+    </div>
+</div>															 
+											 
+											 
+											 
+											 
+											 
+											 
+											 
+											 
+											 
+											 
+											 
+											 
+											 
+											 
+											 
+											 
+											 
+											 
+											 
+											 
+											 
+											 
+											 
+</div>
+																						
+													</div>			
+							
+				</div>
+			</div>
+
+									<div class="container page-builder-ltr">
+				<div class="row row_ataz  row-style ">
+																<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 col_f5iu  col-style">
+																								<div class="module  ">
+   
+  
+  																																	<!-- WhatsHelp.io widget -->
+<script type="text/javascript">
+    (function () {
+        var options = {
+            whatsapp: "+60172342810", // WhatsApp number
+            call_to_action: "Message us", // Call to action
+            position: "right", // Position may be 'right' or 'left'
+        };
+        var proto = document.location.protocol, host = "getbutton.io", url = proto + "//static." + host;
+        var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = url + '/widget-send-button/js/init.js';
+        s.onload = function () { WhWidgetSendButton.init(host, proto, options); };
+        var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
+    })();
+</script>
+<!-- /WhatsHelp.io widget -->								 
+											 
+											 
+											 
+</div>
+																						
+													</div>			
+							
+				</div>
+			</div>
+
+									<div class="container page-builder-ltr">
+				<div class="row row_04ja  row-style ">
+																<div class="col-lg-3 col-md-12 col-sm-12 col-xs-12 col_7wn9  col-style">
+																								
+<div id="so-groups" class="right so-groups-sticky hidden-xs" style="top: 196px">
+		<a class="sticky-categories" id="show-test" data-toggle="collapse"><span>Main Menu</span><i class="fa fa-align-justify"></i></a>
+					<a class="sticky-mycart" data-target="popup" data-popup="#popup-mycart"><span>Cart</span><i class="fa fa-shopping-cart"></i></a>
+			<a class="sticky-myaccount" data-target="popup" data-popup="#popup-myaccount"><span>Account</span><i class="fa fa-user"></i></a>
+			<a class="sticky-mysearch" data-target="popup" data-popup="#popup-mysearch"><span>Search</span><i class="fa fa-search"></i></a>
+			<a class="sticky-recent" data-target="popup" data-popup="#popup-recent"><span>Recent View</span><i class="fa fa-recent"></i></a>
+			<a class="sticky-backtop" data-target="scroll" data-scroll="html"><span>Go to Top</span><i class="fa fa-angle-double-up"></i></a>
+	
+		<div class="popup popup-categories popup-hidden" id="popup-categories">
+		<div class="popup-screen">
+			<div class="popup-position">
+				<div class="popup-container popup-small">
+					<div class="popup-header">
+						<span><i class="fa fa-align-justify"></i>All Categories</span>
+						<a class="popup-close" data-target="popup-close" data-popup-close="#popup-categories">×</a>
+					</div>
+					<div class="popup-content">
+												<div class="nav-secondary">
+							<ul>
+																										<li>
+																				<a href="https://ecocanasports.com/adult"><i class="fa fa-chevron-down nav-arrow"></i>Adult</a>
+																			</li>
+																										<li>
+																				<a href="https://ecocanasports.com/adult-kids"><i class="fa fa-chevron-down nav-arrow"></i>Adult/Kids</a>
+																			</li>
+																										<li>
+																				<a href="https://ecocanasports.com/corporates"><i class="fa fa-chevron-down nav-arrow"></i>Corporates</a>
+																			</li>
+																										<li>
+																				<a href="https://ecocanasports.com/kids"><i class="fa fa-chevron-down nav-arrow"></i>Kids</a>
+																			</li>
+																										<li>
+																					<span class="nav-action">
+												<i class="fa fa-plus more"></i>
+												<i class="fa fa-minus less"></i>
+											</span>
+																				<a href="https://ecocanasports.com/book-your-bicycle-online"><i class="fa fa-chevron-down nav-arrow"></i>Rent Product</a>
+																					<ul class="level-2">
+																																						<li>
+																												<a href="https://ecocanasports.com/book-your-bicycle-online/mountain-bike"><i class="fa fa-chevron-right flip nav-arrow"></i>Mountain Bike</a>
+																											</li>
+																																						<li>
+																												<a href="https://ecocanasports.com/book-your-bicycle-online/road-bike"><i class="fa fa-chevron-right flip nav-arrow"></i>Road Bike</a>
+																											</li>
+																																						<li>
+																												<a href="https://ecocanasports.com/book-your-bicycle-online/city-bike"><i class="fa fa-chevron-right flip nav-arrow"></i>City Bike</a>
+																											</li>
+																																						<li>
+																												<a href="https://ecocanasports.com/book-your-bicycle-online/electronic-bike"><i class="fa fa-chevron-right flip nav-arrow"></i>Electronic Bike/Scooter</a>
+																											</li>
+																																						<li>
+																												<a href="https://ecocanasports.com/book-your-bicycle-online/other"><i class="fa fa-chevron-right flip nav-arrow"></i>Others</a>
+																											</li>
+																							</ul>
+																			</li>
+																										<li>
+																					<span class="nav-action">
+												<i class="fa fa-plus more"></i>
+												<i class="fa fa-minus less"></i>
+											</span>
+																				<a href="https://ecocanasports.com/Buy-Product"><i class="fa fa-chevron-down nav-arrow"></i>Buy Product</a>
+																					<ul class="level-2">
+																																						<li>
+																												<a href="https://ecocanasports.com/Buy-Product/mountain-bikes"><i class="fa fa-chevron-right flip nav-arrow"></i>Mountain Bike</a>
+																											</li>
+																																						<li>
+																												<a href="https://ecocanasports.com/Buy-Product/road-bikes"><i class="fa fa-chevron-right flip nav-arrow"></i>Road Bike</a>
+																											</li>
+																																						<li>
+																												<a href="https://ecocanasports.com/Buy-Product/city-bikes"><i class="fa fa-chevron-right flip nav-arrow"></i>City Bike</a>
+																											</li>
+																																						<li>
+																												<a href="https://ecocanasports.com/Buy-Product/electric-bikes"><i class="fa fa-chevron-right flip nav-arrow"></i>Electric Bike/Scooter</a>
+																											</li>
+																																						<li>
+																												<a href="https://ecocanasports.com/Buy-Product/others"><i class="fa fa-chevron-right flip nav-arrow"></i>Others</a>
+																											</li>
+																							</ul>
+																			</li>
+															</ul>
+						</div>
+											</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+		<div class="popup popup-mycart popup-hidden" id="popup-mycart">
+		<div class="popup-screen">
+			<div class="popup-position">
+				<div class="popup-container popup-small">
+					<div class="popup-html">
+						<div class="popup-header">
+							<span><i class="fa fa-shopping-cart"></i>Shopping Cart</span>
+							<a class="popup-close" data-target="popup-close" data-popup-close="#popup-mycart">×</a>
+						</div>
+						<div class="popup-content">
+							<div class="cart-header">
+																	<div class="notification gray">
+										<i class="fa fa-shopping-cart info-icon"></i>
+										<p>text_empty</p>
+									</div>
+															</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+		<div class="popup popup-myaccount popup-hidden" id="popup-myaccount">
+		<div class="popup-screen">
+			<div class="popup-position">
+				<div class="popup-container popup-small">
+					<div class="popup-html">
+						<div class="popup-header">
+							<span><i class="fa fa-user"></i>My Account</span>
+							<a class="popup-close" data-target="popup-close" data-popup-close="#popup-myaccount">×</a>
+						</div>
+						<div class="popup-content">
+							<div class="form-content">
+								<div class="row space">
+									<div class="col col-sm-6 col-xs-12">
+										<div class="form-box">
+											<form action="https://ecocanasports.com/index.php?route=common/currency/currency" method="post" enctype="multipart/form-data" id="sticky-form-currency">
+												<label class="label-top" for="input-language"><span>Currency:</span></label>
+												<select name="select-currency" id="input-currency" class="field icon dark arrow">
+																																										<option value="MYR" selected="selected">RM Malaysia Ringgit </option>
+																																							</select>
+												<input type="hidden" name="code" value>
+												<input type="hidden" name="redirect" value="https://ecocanasports.com/index.php?route=error/not_found">
+											</form>
+										</div>
+									</div>
+									<div class="col col-sm-6 col-xs-12">
+										<div class="form-box">
+											<form action="https://ecocanasports.com/index.php?route=common/language/language" method="post" enctype="multipart/form-data" id="sticky-form-language">
+												<label class="label-top" for="input-language"><span>Language:</span></label>
+												<select name="select-language" id="input-language" class="field icon dark arrow">
+																																										<option value="en-gb" selected="selected">English</option>
+																																							</select>
+												<input type="hidden" name="code" value>
+												<input type="hidden" name="redirect" value="https://ecocanasports.com/index.php?route=error/not_found&amp;_route_=404.shtml">
+											</form>
+										</div>
+									</div>
+									<div class="col col-sm-12">
+										<div class="form-box">
+											<div class="hr show"></div>
+										</div>
+									</div>
+									<div class="col col-sm-4 col-xs-6 txt-center">
+										<div class="form-box">
+											<a class="account-url" href="https://ecocanasports.com/index.php?route=account/order">
+												<span class="ico ico-32 ico-sm"><i class="fa fa-history"></i></span><br>
+												<span class="account-txt">History</span>
+											</a>
+										</div>
+									</div>
+									<div class="col col-sm-4 col-xs-6 txt-center">
+										<div class="form-box">
+											<a class="account-url" href="https://ecocanasports.com/index.php?route=checkout/cart">
+												<span class="ico ico-32 ico-sm"><i class="fa fa-shoppingcart"></i></span><br>
+												<span class="account-txt">Shopping Cart</span>
+											</a>
+										</div>
+									</div>
+																					<div class="col col-sm-4 col-xs-6 txt-center">
+													<div class="form-box">
+														<a class="account-url" href="https://ecocanasports.com/index.php?route=account/register">
+															<span class="ico ico-32 ico-sm"><i class="fa fa-register"></i></span><br>
+															<span class="account-txt">Register</span>
+														</a>
+													</div>
+												</div>
+																				<div class="col col-sm-4 col-xs-6 txt-center">
+										<div class="form-box">
+											<a class="account-url" href="https://ecocanasports.com/index.php?route=account/account">
+												<span class="ico ico-32 ico-sm"><i class="fa fa-account"></i></span><br>
+												<span class="account-txt">Account</span>
+											</a>
+										</div>
+									</div>
+																													<div class="col col-sm-4 col-xs-6 txt-center">
+												<div class="form-box">
+													<a class="account-url" href="https://ecocanasports.com/index.php?route=account/login">
+														<span class="ico ico-32 ico-sm"><i class="fa fa-login"></i></span><br>
+														<span class="account-txt">Login</span>
+													</a>
+												</div>
+											</div>
+																			</div>
+							</div>
+							<div class="clear"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+		<div class="popup popup-mysearch popup-hidden" id="popup-mysearch">
+		<div class="popup-screen">
+			<div class="popup-position">
+				<div class="popup-container popup-small">
+					<div class="popup-html">
+						<div class="popup-header">
+							<span><i class="fa fa-search"></i>Search</span>
+							<a class="popup-close" data-target="popup-close" data-popup-close="#popup-mysearch">×</a>
+						</div>
+						<div class="popup-content">
+							<div class="form-content">
+								<div class="row space">
+									<div class="col">
+										<div class="form-box">
+											<input type="text" name="search" value placeholder="Search" id="input-search" class="field">
+											<i class="fa fa-search sbmsearch"></i>
+										</div>
+									</div>
+									<div class="col">
+										<div class="form-box">
+											<button type="button" id="button-search" class="btn button-search">Search</button>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="clear"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+		<div class="popup popup-recent popup-hidden" id="popup-recent">
+		<div class="popup-screen">
+			<div class="popup-position">
+				<div class="popup-container popup-small">
+					<div class="popup-html">
+						<div class="popup-header">
+							<span><i class="fa fa-recent"></i>Recent View Products</span>
+							<a class="popup-close" data-target="popup-close" data-popup-close="#popup-recent">×</a>
+						</div>
+						<div class="popup-content">
+							<div class="form-content">
+								<div class="row space">
+																			<div class="col col-xs-12"></div>
+																	</div>
+							</div>
+							<div class="clear"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	</div>
+
+																						
+													</div>			
+							
+				</div>
+			</div>
+
+				</div>
+
+        <div class="col-sm-12 text-center">
+                <div class="page-title">404</div>
+                <h1>The page you requested cannot be found!</h1>
+                <p>The page you requested cannot be found.</p>
+                <div class="search-header-w">
+                    
+                </div>
+                <a href="https://ecocanasports.com/index.php?route=common/home" class="home-link" title="Go back to home page"><i class="fa fa-angle-left" aria-hidden="true"></i> Go back to home page</a>
+            </div>
+
+        <!--?php echo $content_bottom; ?-->
+    </div>
+
+    </div>
+</div>
+<div id="so-groups">
+    <div class="popup popup-mysearch popup-hidden" id="popup-mysearch">
+        <div class="popup-screen">
+            <div class="popup-position">
+                <div class="popup-container popup-small">
+                    <div class="popup-html">
+                        <div class="popup-header">
+                            <span><i class="fa fa-search"></i>Search</span>
+                            <a class="popup-close" data-target="popup-close" data-popup-close="#popup-mysearch">×</a>
+                        </div>
+                        <div class="popup-content">
+                            <div class="form-content">
+                                <div class="row space">
+                                    <div class="col">
+                                        <div class="form-box">
+                                            <input type="text" name="search" value placeholder="Search" id="input-search" class="field">
+                                            <i class="fa fa-search sbmsearch"></i>
+                                        </div>
+                                    </div>
+                                    <div class="col">
+                                        <div class="form-box">
+                                            <button type="button" id="button-search" class="btn button-search">Search</button>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="clear"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+	<footer class="footer-container typefooter-1">
+			<div class="footer-main collapse description-has-toggle" id="collapse-footer">
+
+		  <div class="so-page-builder">
+						<div class="container page-builder-ltr">
+				<div class="row row_5flj  footer-middle ">
+																<div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 col_jvq9  col-style">
+																								<p><b><span style="font-size: 18px;">ABOUT US</span></b></p><p style="text-align: justify; ">Ecocana provides rental and sale service of bicycles and electric scooters throughout Peninsula Malaysia, as well as held events or cycling&nbsp;activities for companies, groups and individuals...&nbsp;<a href="./about_us" style="background-color: rgb(255, 255, 255);">Read more</a></p>
+<br>
+<a href="./privacy-policies">Privacy Policies</a><br>
+<a href="./terms-and-conditions">Terms and Conditions</a>
+																						
+													</div>			
+											<div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 col_4oje  col-style">
+																								<b><span style="font-size: 18px;">CONTACT US</span></b>
+<p><i class="fa fa-phone"></i>&nbsp;&nbsp;&nbsp;+6017-2342810</p>
+<p><i class="fa fa-envelope"></i>&nbsp;&nbsp;<a href="mailto:ecocanasports@gmail.com" target="_top">ecocanasports@gmail.com</a></p>
+																						
+													</div>			
+											<div class="col-lg-3 col-md-2 col-sm-6 col-xs-12 col_la67  col-style">
+																								<div class="module  ">
+   
+  
+  																																																																																																																																				<p><b><span style="font-size: 18px;">INSTAGRAM</span></b>
+</p>
+<!-- Change code under this -->
+<script src="../js/platform.js" defer></script>
+<div class="elfsight-app-e970490a-fbe4-4a4b-a6d9-a83f24b702c5 instalink instalink-user instalink-image-size-small instalink-has-pages instalink-ready instalink-medium" data-il-widget-id="e970490a-fbe4-4a4b-a6d9-a83f24b702c5" data-il-widget-origin="apps.elfsight.com" data-il-username="ecocanasports" data-il-hashtag data-il-width="300" data-il-height="0" data-il-image-size="small" data-il-show-heading="true" data-il-scroll="false" data-il-bg-color="rgb(0, 0, 0)" data-il-content-bg-color="#f8f8f8" data-il-font-color="#ffffff" data-il-lang="en" data-il-custom-c-s-s data-il-website-url="ecocanasports.com" data-il-deactivate="true" data-il-show-elfsight-logo="true" data-il-owner="false" data-il-platform="true" data-il-api-url="https://api.instacloud.io/v1/" id="instaLink_0" data-il-free-link-url="https://elfsight.com/instagram-feed-instashow/?utm_source=websites&amp;utm_medium=clients&amp;utm_content=instalink&amp;utm_term=%website_domain%&amp;utm_campaign=free-widget" data-il-free-link-anchor="Free Instagram widget"><div class="instalink-cap"></div><div class="instalink-alert">An error occurred. See console for the details.</div><div class="instalink-content"><a class="instalink-header" href="https://instagram.com/ecocanasports/" target="_blank"> <img class="instalink-header-pic" src="75388600_2581588208585732_4925943423946457088_n.jpg" alt="ecocanasports"> <span class="instalink-header-name">ecocanasports</span>                 <span class="instalink-header-logo">                     <svg viewBox="0 0 24 24" width="24" height="24">                         <path d="M17.1,1H6.9C3.7,1,1,3.7,1,6.9v10.1C1,20.3,3.7,23,6.9,23h10.1c3.3,0,5.9-2.7,5.9-5.9V6.9C23,3.7,20.3,1,17.1,1z                         M21.5,17.1c0,2.4-2,4.4-4.4,4.4H6.9c-2.4,0-4.4-2-4.4-4.4V6.9c0-2.4,2-4.4,4.4-4.4h10.3c2.4,0,4.4,2,4.4,4.4V17.1z"/>                         <path d="M16.9,11.2c-0.2-1.1-0.6-2-1.4-2.8c-0.8-0.8-1.7-1.2-2.8-1.4c-0.5-0.1-1-0.1-1.4,0C10,7.3,8.9,8,8.1,9S7,11.4,7.2,12.7                         C7.4,14,8,15.1,9.1,15.9c0.9,0.6,1.9,1,2.9,1c0.2,0,0.5,0,0.7-0.1c1.3-0.2,2.5-0.9,3.2-1.9C16.8,13.8,17.1,12.5,16.9,11.2z                         M12.6,15.4c-0.9,0.1-1.8-0.1-2.6-0.6c-0.7-0.6-1.2-1.4-1.4-2.3c-0.1-0.9,0.1-1.8,0.6-2.6c0.6-0.7,1.4-1.2,2.3-1.4                         c0.2,0,0.3,0,0.5,0s0.3,0,0.5,0c1.5,0.2,2.7,1.4,2.9,2.9C15.8,13.3,14.5,15.1,12.6,15.4z"/>                         <path d="M18.4,5.6c-0.2-0.2-0.4-0.3-0.6-0.3s-0.5,0.1-0.6,0.3c-0.2,0.2-0.3,0.4-0.3,0.6s0.1,0.5,0.3,0.6c0.2,0.2,0.4,0.3,0.6,0.3                         s0.5-0.1,0.6-0.3c0.2-0.2,0.3-0.4,0.3-0.6C18.7,5.9,18.6,5.7,18.4,5.6z"/>                     </svg>                 </span>              </a><div class="instalink-panel"><span class="instalink-panel-posts instalink-panel-counter"> <i class="instalink-panel-counter-value">223</i><span class="instalink-panel-counter-label">posts</span> </span><span class="instalink-panel-subsribers instalink-panel-counter"> <i class="instalink-panel-counter-value">364</i> <span class="instalink-panel-counter-label">followers</span> </span> <span class="instalink-panel-following instalink-panel-counter"> <i class="instalink-panel-counter-value">593</i> <span class="instalink-panel-counter-label">following</span> </span> <a class="instalink-panel-subscribe" href="https://instagram.com/ecocanasports/" target="_blank">Follow</a> </div><div class="instalink-feed-wrapper"><div class="instalink-feed-container"><div class="instalink-feed-inner"><div class="instalink-feed"><a href="https://www.instagram.com/p/CJd1AzlptBx/" target="_blank" class="instalink-feed-post instalink-feed-post-loaded instalink-feed-post-square"> <span><img src="133921054_397025204694849_6837324001035802924_n.jpg" alt data-pic-orig="https://instagram.flko3-1.fna.fbcdn.net/v/t51.2885-15/e35/133921054_397025204694849_6837324001035802924_n.jpg?_nc_ht=instagram.flko3-1.fna.fbcdn.net&amp;_nc_cat=109&amp;_nc_ohc=epF4MpkhthEAX97RGOv&amp;tp=1&amp;oh=668990ee437c4b714f089bf62ee1a105&amp;oe=60288DB5"></span> </a><a href="https://www.instagram.com/p/CJKNlSGJxui/" target="_blank" class="instalink-feed-post instalink-feed-post-video instalink-feed-post-loaded instalink-feed-post-portrait"> <span><img src="132332081_433966190977815_149594230911951677_n.jpg" alt data-pic-orig="https://instagram.flko3-1.fna.fbcdn.net/v/t51.2885-15/e35/132332081_433966190977815_149594230911951677_n.jpg?_nc_ht=instagram.flko3-1.fna.fbcdn.net&amp;_nc_cat=103&amp;_nc_ohc=4Pzit96_tAgAX9v3MMc&amp;tp=1&amp;oh=09597b3b16e1928398c2d7ae75902fac&amp;oe=6001F425"></span> </a><a href="https://www.instagram.com/p/CIj2WMlpl0G/" target="_blank" class="instalink-feed-post instalink-feed-post-video instalink-feed-post-loaded instalink-feed-post-square"> <span><img src="129771998_1045954355881998_60759536790171629_n.jpg" alt data-pic-orig="https://instagram.flko3-1.fna.fbcdn.net/v/t51.2885-15/e35/129771998_1045954355881998_60759536790171629_n.jpg?_nc_ht=instagram.flko3-1.fna.fbcdn.net&amp;_nc_cat=106&amp;_nc_ohc=7i2heFJIQ3wAX8LQFB9&amp;tp=1&amp;oh=115e2a86414fae5929436f2083a0a21e&amp;oe=6001ACB5"></span> </a><a href="https://www.instagram.com/p/CIJ690wJ6uG/" target="_blank" class="instalink-feed-post instalink-feed-post-video instalink-feed-post-loaded instalink-feed-post-square"> <span><img src="127735310_206838820845352_6916413002254294355_n.jpg" alt data-pic-orig="https://instagram.flko3-1.fna.fbcdn.net/v/t51.2885-15/e35/127735310_206838820845352_6916413002254294355_n.jpg?_nc_ht=instagram.flko3-1.fna.fbcdn.net&amp;_nc_cat=104&amp;_nc_ohc=Kxkfv0OPpw0AX9D2Ph8&amp;tp=1&amp;oh=7ec0c953109cd51cb132da11faa9c805&amp;oe=600237AA"></span> </a></div></div></div></div></div></div><style type="text/css">#instaLink_0 {max-width: 300px; height: 0px; } #instaLink_0, #instaLink_0 .instalink-feed-wrapper { background: #f8f8f8 } #instaLink_0 .instalink-header, #instaLink_0 a.instalink-panel-subscribe {background-color: rgb(0, 0, 0); } #instaLink_0 .instalink-header-logo svg { fill: #ffffff; } #instaLink_0 .instalink-header-name a, #instaLink_0 .instalink-header-name, #instaLink_0 a.instalink-panel-subscribe {color: #ffffff; } #instaLink_0 .instalink-feed-post {width: 86px; height: 114px; } #instaLink_0 .instalink-feed-post span {width: 77px; height: 77px; margin-top: -38px; margin-left: -38px } #instaLink_0 .instalink-feed-loader { width: 300px; }</style><style type="text/css">#instaLink_0 {max-width: 500px; height: 0px; } #instaLink_0, #instaLink_0 .instalink-feed-wrapper { background: #f8f8f8 } #instaLink_0 .instalink-header, #instaLink_0 a.instalink-panel-subscribe {background-color: rgb(0, 0, 0); } #instaLink_0 .instalink-header-logo svg { fill: #ffffff; } #instaLink_0 .instalink-header-name a, #instaLink_0 .instalink-header-name, #instaLink_0 a.instalink-panel-subscribe {color: #ffffff; } #instaLink_0 .instalink-feed-post {width: 75px; height: 57px; } #instaLink_0 .instalink-feed-post span {width: 51px; height: 51px; margin-top: -25px; margin-left: -25px } #instaLink_0 .instalink-feed-loader { width: 300px; }</style> 
+											 
+</div>
+																						
+													</div>			
+											<div class="col-lg-3 col-md-2 col-sm-6 col-xs-12 col_har1  col-style">
+																								<div class="module  ">
+   
+  
+  											<p><b><span style="font-size: 18px;">FACEBOOK</span></b></p>
+<div class="iframe-fb-container">
+   <iframe class="iframe-fb border" scrolling="no" frameborder="0" allowtransparency="true" allow="encrypted-media" src="../unsupportedbrowser.html"></iframe>
+ </div>
+											 
+</div>
+																						
+													</div>			
+							
+				</div>
+			</div>
+
+				</div>
+
+
+	</div>
+	<div class="button-toggle hidden-lg hidden-md">
+         <a class="showmore" data-toggle="collapse" href="#collapse-footer" aria-expanded="false" aria-controls="collapse-footer">
+            <span class="toggle-more">Show More <i class="fa fa-angle-down"></i></span>
+            <span class="toggle-less">Show Less <i class="fa fa-angle-up"></i></span>
+		</a>
+	</div>
+	
+
+		<div class="footer-bottom ">
+		<div class="container">
+			<div class="row">
+								<div class="copyright col-sm-12">
+											© Ecocana 2021.
+					
+				</div>
+
+				
+
+							</div>
+		</div>
+	</div>
+</footer>
+
+
+
+
+
+<script src="../js/myscript.js"></script>
+
+</div><div id="gb-widget-4988" style="bottom: 21px; right: 23px; opacity: 1; transition: opacity 0.5s ease 0s; box-sizing: border-box; direction: ltr; position: fixed !important; z-index: 16000160 !important;"><div><div class="q8c6tt-2 jxPOhn"><a href="https://wa.me/60172342810" target="_blank" color="#4dc247" class="q8c6tt-0 jlzTty"><svg viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="width: 100%; height: 100%; fill: rgb(255, 255, 255); stroke: none;"><path d="M19.11 17.205c-.372 0-1.088 1.39-1.518 1.39a.63.63 0 0 1-.315-.1c-.802-.402-1.504-.817-2.163-1.447-.545-.516-1.146-1.29-1.46-1.963a.426.426 0 0 1-.073-.215c0-.33.99-.945.99-1.49 0-.143-.73-2.09-.832-2.335-.143-.372-.214-.487-.6-.487-.187 0-.36-.043-.53-.043-.302 0-.53.115-.746.315-.688.645-1.032 1.318-1.06 2.264v.114c-.015.99.472 1.977 1.017 2.78 1.23 1.82 2.506 3.41 4.554 4.34.616.287 2.035.888 2.722.888.817 0 2.15-.515 2.478-1.318.13-.33.244-.73.244-1.088 0-.058 0-.144-.03-.215-.1-.172-2.434-1.39-2.678-1.39zm-2.908 7.593c-1.747 0-3.48-.53-4.942-1.49L7.793 24.41l1.132-3.337a8.955 8.955 0 0 1-1.72-5.272c0-4.955 4.04-8.995 8.997-8.995S25.2 10.845 25.2 15.8c0 4.958-4.04 8.998-8.998 8.998zm0-19.798c-5.96 0-10.8 4.842-10.8 10.8 0 1.964.53 3.898 1.546 5.574L5 27.176l5.974-1.92a10.807 10.807 0 0 0 16.03-9.455c0-5.958-4.842-10.8-10.802-10.8z"/></svg></a></div><a type="link" href="http://getbutton.io/?utm_campaign=multy_widget&amp;utm_medium=widget&amp;utm_source=ecocanasports.com" class="sc-7dvmpp-1 fprIlH">GetButton</a></div></div></body></html>
