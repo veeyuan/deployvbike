@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/jomletsh/public_html/
+    - export DEPLOYPATH=/home_ssd/jomletsh/public_html/
     - /bin/cp -R * $DEPLOYPATH
