@@ -1,6 +1,6 @@
 <?php
 $servername = "mysql3000.mochahost.com";
-$name = 'jomletsh_bikerentalsystem	';
+$name = 'jomletsh_bikerentalsystem';
 $username = "jomletsh_user1";
 $password = "user1abc";
 $connect = mysqli_connect($servername, $username, $password, $name);
