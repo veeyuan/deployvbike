@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/jomletsh/public_html/myvbike/
+    - export DEPLOYPATH=/home/jomletsh/myvbike.jom-lets-host.com/
     - /bin/cp -R * $DEPLOYPATH
